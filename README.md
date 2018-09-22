@@ -5,7 +5,7 @@ Serves no real purpose, but is useful as an example or boilerplate for a React /
 ![SWAPI Screenshot](https://raw.githubusercontent.com/robertbg/swapi-react/master/screenshot.png)
 
 ## Demo
-[Click here](http://robbg.io/swapi-react/) for a demo.
+[Click here](https://mystifying-wescoff-67c572.netlify.com/) for a demo.
 
 ## Dependencies
 * Node / NPM - Tested with Node v7.2.0.
