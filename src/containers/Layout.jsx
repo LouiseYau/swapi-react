@@ -42,8 +42,8 @@ class AsyncApp extends Component {
             <Results items={items} />
           }
           <div className="tagline">
-            Built and designed by <a href="http://www.robbg.io">Rob BG</a> using React / Redux.&nbsp;
-            <a href="https://github.com/robertbg/react-example">Source code on Github</a>.
+            Built and designed by <a href="http://www.aponyx.io">aponyx</a> using React / Redux.&nbsp;
+            <a href="https://github.com/aponyx/swapi-react">Source code on Github</a>.
             <svg className="tagline__logo" viewBox="0 0 115 50">
               <path
                 className="logo__dot"
